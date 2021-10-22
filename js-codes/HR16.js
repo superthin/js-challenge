@@ -1,4 +1,5 @@
 //Dựa trên: https://vi.wikipedia.org/wiki/Năm_nhuận
+// coppied from https://daynhauhoc.com/t/thu-thach-lap-trinh-javascript-ve-1-thu-tuong-don-gian-nhung-roi-nao/120552/2
 function is_leap_year(year){
 	if (year % 100 != 0){
 		if (year % 4 == 0) return true
